@@ -27,9 +27,3 @@ git clone https://github.com/kaitoonodera1887/todo-cli.git
 cd todo-cli
 python todo.py add "Test task"
 python todo.py list
-
-
-
-## License
-```bash
-MIT © Kaito Onodera
